@@ -1,5 +1,5 @@
 
-# Mathematical Optimization Examples
+# Deep Time Series
 
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
