@@ -42,3 +42,8 @@ In the [notebooks](/notebooks/) directory you can find examples of usage.
 
 ## License
 [MIT](LICENSE.txt)
+
+
+## Acknowledgment
+
+- https://arxiv.org/pdf/1709.01907.pdf
